@@ -6,7 +6,7 @@ import {of} from "rxjs";
 })
 export class ValueService {
 
-    private value = ''
+    private value = 'my value'
 
     constructor() {
     }
