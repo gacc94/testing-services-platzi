@@ -1931,6 +1931,11 @@
   dependencies:
     esquery "^1.0.1"
 
+"@picocss/pico@1.5.10":
+  version "1.5.10"
+  resolved "https://registry.yarnpkg.com/@picocss/pico/-/pico-1.5.10.tgz#94f813f5de6206d5a4492b801337eadf6dfcc889"
+  integrity sha512-+LafMsrwPxXQMk6sI///TmSInCwwZmq+K7SikyL3N/4GhhwzyPC+TQLUEqmrLyjluR+uIpFFcqjty30Rtr6GxQ==
+
 "@pkgjs/parseargs@^0.11.0":
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
@@ -3584,6 +3589,11 @@ env-paths@^2.2.0:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/env-paths/-/env-paths-2.2.1.tgz#420399d416ce1fbe9bc0a07c62fa68d67fd0f8f2"
   integrity sha512-+h1lkLKhZMTYjog1VEpJNG7NZJWcuc2DDk/qsqSTRRCOXiLjeQ1d1/udrUGhqMxUgAlwKNZ0cf2uqan5GLuS2A==
+
+environments@1.2.7:
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/environments/-/environments-1.2.7.tgz#41fca63c97f4e7f0f2444fdf59b316b0e94f0a25"
+  integrity sha512-Xr3pGP9nXquAEijfPLQ1smAKD0wBRvKoZYTFkyYDsrhbHmJMhBQOzymGBRGgI9M0CwfoOD6iRymWPb4aNsFR8Q==
 
 err-code@^2.0.2:
   version "2.0.3"

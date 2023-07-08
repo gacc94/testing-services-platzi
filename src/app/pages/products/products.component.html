@@ -1,0 +1,13 @@
+<section class="container">
+    <h2>Soy Products</h2>
+    <div class="grid">
+        <div class="card" *ngFor="let item of products">
+            <figure>
+                <img [src]="item.images[0]" alt="">
+                <figcaption>
+                    <p>{{item.title}} - {{item.price}}</p>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+</section>
