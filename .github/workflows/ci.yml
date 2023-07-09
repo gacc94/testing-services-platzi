@@ -14,4 +14,4 @@ jobs:
             -   name: Install
                 run: yarn
             -   name: run tests
-                run: ng test --no-watch --code-coverage
+                run: yarn run test:coverage
